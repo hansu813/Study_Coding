@@ -1,0 +1,2 @@
+module yut_play {
+}
