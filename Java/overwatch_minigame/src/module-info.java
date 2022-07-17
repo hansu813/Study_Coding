@@ -1,0 +1,2 @@
+module overwatch_minigame {
+}
